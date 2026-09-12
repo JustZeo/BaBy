@@ -8,7 +8,7 @@
 
 ## 📱 Download
 
-**[⬇️ Download the APK](#)** ← replace this with your release link
+**[⬇️ Download the APK](https://github.com/JustZeo/BaBy/releases/download/v1.0.0/BaBy.apk)**
 
 > Android only for now. Enable "install from unknown sources" if prompted — this app isn't on the Play Store (yet 👀).
 
@@ -41,8 +41,8 @@
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
-cd Baby
+git clone https://github.com/JustZeo/BaBy.git
+cd BaBy
 
 # 2. Install dependencies
 npm install
@@ -70,4 +70,3 @@ Baby stores **100% of your data locally** on-device via AsyncStorage — there a
 ## 💛 A Note
 
 This app was made with love, for the boyfriends who want to show up a little better — one small, thoughtful detail at a time. 🌸
-
